@@ -1,0 +1,1 @@
+the static folder is used to store javascript and css files
